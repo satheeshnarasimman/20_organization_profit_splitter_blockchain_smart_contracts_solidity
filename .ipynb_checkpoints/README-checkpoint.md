@@ -15,7 +15,9 @@ In this project, test Ethreum is transferred to various account addresses via eq
 - TieredProfitSplitter
 - DeferredEquityPlan
 
-## Account used to send Ether
+## High-level summary
+
+### Account used to send Ether
 - 0xB44F86125615Cd27d1af4962acCa9801D6afBBf1
 
 ### Associate profit splitter:
@@ -41,7 +43,7 @@ Thousand shares are distributed to the employee equally over a period of 4 years
 - Satheesh Narasimman
 
 ## People who helped
-- Michael Tang, Bootcamp tutor
+- Michael Tang, Bootcamp Tutor
 
 ## References
 - https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-sfc-fin-pt-08-2020-u-c/tree/master/01-Lessons/20-Solidity/4/Activities
